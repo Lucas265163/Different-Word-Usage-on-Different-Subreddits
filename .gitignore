@@ -1,6 +1,7 @@
 # Folders
 models/
 datasets/
+.venv/
 
 # Files
 *.csv
