@@ -1,0 +1,15 @@
+# Folders
+models/
+dataset/
+
+# Files
+*.csv
+*.json
+*.xlsx
+*.parquet
+*.dat
+*.db
+*.sqlite
+*.h5
+*.hdf5
+*.zst
