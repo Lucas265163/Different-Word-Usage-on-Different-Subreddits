@@ -1,6 +1,6 @@
 # Folders
 models/
-dataset/
+datasets/
 
 # Files
 *.csv
