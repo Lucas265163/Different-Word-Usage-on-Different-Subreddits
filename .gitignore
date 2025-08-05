@@ -2,6 +2,7 @@
 models/
 datasets/
 .venv/
+.output/
 
 # Files
 *.csv
