@@ -14,3 +14,13 @@ datasets/
 *.h5
 *.hdf5
 *.zst
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
