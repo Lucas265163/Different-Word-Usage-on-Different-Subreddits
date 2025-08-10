@@ -2,7 +2,8 @@
 models/
 datasets/
 .venv/
-.output/
+output/
+python_learning/
 
 # Files
 *.csv
@@ -22,6 +23,7 @@ __pycache__/
 *.pyo
 *.pyd
 .Python
+
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
