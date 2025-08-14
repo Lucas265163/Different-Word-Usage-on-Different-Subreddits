@@ -4,6 +4,7 @@ datasets/
 .venv/
 output/
 python_learning/
+sql/
 
 # Files
 *.csv
