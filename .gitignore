@@ -5,6 +5,7 @@ datasets/
 output/
 python_learning/
 sql/
+processed_comments/
 
 # Files
 *.csv
