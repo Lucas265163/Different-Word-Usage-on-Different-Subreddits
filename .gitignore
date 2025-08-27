@@ -6,6 +6,7 @@ output/
 python_learning/
 sql/
 processed_comments/
+processed_comments_d2/
 
 # Files
 *.csv
