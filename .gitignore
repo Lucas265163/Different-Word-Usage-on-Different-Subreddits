@@ -8,6 +8,7 @@ sql/
 processed_comments/
 processed_comments_d2/
 processed_comments_d4/
+final_processed_comments/
 
 # Files
 *.csv
