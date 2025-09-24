@@ -11,6 +11,8 @@ processed_comments_d4/
 final_processed_comments/
 processed_comments_1/
 word_freq_csv/
+processed_comments_2/
+bigdocs/
 
 # Files
 *.csv
