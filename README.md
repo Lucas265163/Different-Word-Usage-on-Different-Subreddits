@@ -8,3 +8,5 @@ if dataset are large
 
 if dataset small
 2. training word2vec model with entire comments
+
+5. 
