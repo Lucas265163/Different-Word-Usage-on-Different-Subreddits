@@ -12,6 +12,7 @@ final_processed_comments/
 processed_comments/
 word_freq_csv/
 bigdocs/
+data/
 
 # Files
 *.csv
